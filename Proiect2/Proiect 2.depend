@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1618408284 source:d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Abonat.h"
+	"Dosar.h"
+
+1618407033 d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\include\persoana.h
+	<iostream>
+
+1618406893 source:d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\src\persoana.cpp
+	"Persoana.h"
+	<string>
+	<ctime>
+
+1618406904 d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\include\abonat.h
+	"Persoana.h"
+	<iostream>
+
+1618396825 source:d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\src\abonat.cpp
+	"Abonat.h"
+
+1618403805 source:d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\src\dosar.cpp
+	"Dosar.h"
+
+1618403287 d:\fmi 2020\semestrul 2\programare orientata pe obiecte\proiect 2\include\dosar.h
+	"Abonat.h"
+	<iostream>
+
